@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+<body>
+
+    <header>
+        <h1>{{ .Title }}<br> <small>{{ .Description }}</small></h1>
+    </header>
+    <div class="divider"></div>
+    <h4>{{ .Date.Format "January 2, 2006" }}</h4>
+    <h4>{{ .WordCount }} words</h4>
+
+
+    <div class="content">
+        <p>{{ .Content }}</p>
+    </div>
+
+
+</body>
+{{ partial "footer.html" . }}

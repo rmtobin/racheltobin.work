@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "header.html" . }}
+    <body>
+        <header>
+            <h1>Blog</h1>
+        </header>
+        <div class='divider'></div>
+        <div class="content">
+            <div>
+                <ul id="list">
+                    {{ range .Data.Pages }}
+                        {{ .Render "li"}}
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </body>
+    {{partial "footer.html" .}}
+</html>

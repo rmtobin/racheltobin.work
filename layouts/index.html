@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "header.html" . }}
+    <body>
+        <header>
+            <h1>Rachel Tobin</h1>
+            <h2>Web Developer</h2>
+        </header>
+        <div class='divider'></div>
+        <nav>
+            <ul>
+                <li><a href="/about/">ABOUT</a></li>
+                <li><a href="/blog/">BLOG</a></li>
+                <li><a href="/resume/">RÉSUMÉ</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <section class="intro">
+                <div class="dropcap">
+                    Hi!
+                </div>
+                <p>Bacon ipsum dolor amet pork loin shankle picanha ribeye doner. Beef pork sausage rump pig tongue frankfurter. Leberkas kevin pancetta beef ribs, shank cow ham hock. Corned beef brisket strip steak jerky.
+                    Bacon ipsum dolor amet pork loin shankle picanha ribeye doner. Beef pork sausage rump pig tongue frankfurter. Leberkas kevin pancetta beef ribs, shank cow ham hock. Corned beef brisket strip steak jerky<p>
+            </section>
+            <section class="recent-work">
+                <h3>Recent Work</h3>
+                <div class='divider'></div>
+                <div class="item-container">
+                    <div class="item"></div>
+                    <div class="item"></div>
+                    <div class="item"></div>
+                    <div class="item"></div>
+                </div>
+            </section>
+        </div>
+    </body>
+
+    {{ partial "footer.html" . }}
+</html>
