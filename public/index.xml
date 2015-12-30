@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Of Being and Nothingness</title>
+    <title>Rachel Tobin Portfolio</title>
     <link>http://racheltobin.work/</link>
-    <description>Recent content on Of Being and Nothingness</description>
+    <description>Recent content on Rachel Tobin Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Dec 2015 00:00:00 +0000</lastBuildDate>
@@ -16,16 +16,6 @@
       
       <guid>http://racheltobin.work/blog/first-post/</guid>
       <description>&lt;p&gt;Some words here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>http://racheltobin.work/post/first-post/</link>
-      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
-      
-      <guid>http://racheltobin.work/post/first-post/</guid>
-      <description>&lt;p&gt;##First post&lt;/p&gt;
 </description>
     </item>
     
