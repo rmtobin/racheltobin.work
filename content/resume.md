@@ -21,15 +21,15 @@ Supported a campus of approximately 2,000 computers, using both Mac and Windows 
 
 ## EDUCATION
 
-**University of Minnesota, Twin Cities - 2010-2011** - Completed courses towards Computer Science and Asian Languages majors.
+**University of Minnesota, Twin Cities - 2010-2011** - Completed courses towards Computer Science and Asian Languages majors
 
-**Shih Hsin University, Taipei, Taiwan - 2009-2010** - Foreign Exchange Program through University of Wisconsin; completed Mandarin Chinese Language courses.
+**Shih Hsin University, Taipei, Taiwan - 2009-2010** - Foreign Exchange Program through University of Wisconsin; completed Mandarin Chinese Language courses
 
-**University of Wisconsin, River Falls, WI - 2008-2009** - Completed Computer Science and Japanese Language courses.
+**University of Wisconsin, River Falls, WI - 2008-2009** - Completed Computer Science and Japanese Language courses
 
-**Utsunomiya Joshi Kōkō, Utsunomiya, Japan - 2007-2008** - Rotary International Exchange Program.
+**Utsunomiya Joshi Kōkō, Utsunomiya, Japan - 2007-2008** - Rotary International Exchange Program
 
-**Century College, White Bear Lake, MN - 2006-2007** - Completed Computer Science courses as a PSEO student.
+**Century College, White Bear Lake, MN - 2006-2007** - Completed Computer Science courses as a PSEO student
 
 ## SKILLS
 
