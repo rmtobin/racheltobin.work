@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rachel Tobin Portfolio</title>
-    <link>http://racheltobin.work/</link>
-    <description>Recent content on Rachel Tobin Portfolio</description>
+    <title>Recent-works on Rachel Tobin Portfolio</title>
+    <link>http://racheltobin.work/recent-work/</link>
+    <description>Recent content in Recent-works on Rachel Tobin Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://racheltobin.work/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>First Post</title>
-      <link>http://racheltobin.work/blog/first-post/</link>
-      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://racheltobin.work/blog/first-post/</guid>
-      <description>&lt;p&gt;Some words here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://racheltobin.work/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://racheltobin.work/about/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://racheltobin.work/recent-work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Apple Watch Demo</title>
@@ -96,57 +76,6 @@
 &lt;li&gt;Python OAuth 2 Lib&lt;/li&gt;
 &lt;li&gt;Custom Django authentication backend&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Résumé</title>
-      <link>http://racheltobin.work/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://racheltobin.work/resume/</guid>
-      <description>
-
-&lt;h2 id=&#34;experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;EXPERIENCE&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Web Developer, The Omni Group, Seattle, WA — Nov 2013 - Present&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Maintained and developed web content across all of the Omni Group’s web presence, including the marketing site, support site, user forums, sync service, internal tools, and other auxiliary sites. Worked with a team of designers for major redesigns, as well as completely new projects developed from scratch.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Support Human,  The Omni Group, Seattle, WA — Apr 2012 - Nov 2013&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Provided telephone and email technical support for The Omni Group’s Mac and iOS software applications, and was involved in collecting and categorizing customer feedback for product improvement. Created scripts and customizations for our Request Tracker ticketing system using Perl.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Genius,  Apple Inc. Roseville, MN &amp;amp; Seattle, WA — Oct 2010 - Apr 2012&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Performed technical support for Mac users in a retail environment; repaired hardware and software on Apple computers and mobile devices; administered store Deploy Studio server and diagnostic toolkit server and associated wikis; belonged to a team responsible for maintenance and administration of store use Snow Leopard and Lion servers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Computer Support Technician, University of Wisconsin, River Falls, WI — Aug 2008 - Sept 2009&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Supported a campus of approximately 2,000 computers, using both Mac and Windows OS; responded to technical support requests via Numara Footprints software; administered McAfee ePolicy Orchestrator server and helped develop campus-wide security policy;  developed scripts for improved automation of routine updating.&lt;/p&gt;
-
-&lt;h2 id=&#34;education:c59a67a3c7bc5faa453847420267045e&#34;&gt;EDUCATION&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;University of Minnesota, Twin Cities - 2010-2011&lt;/strong&gt; - Completed courses towards Computer Science and Asian Languages majors.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shih Hsin University, Taipei, Taiwan - 2009-2010&lt;/strong&gt; - Foreign Exchange Program through University of Wisconsin; completed Mandarin Chinese Language courses.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;University of Wisconsin, River Falls, WI - 2008-2009&lt;/strong&gt; - Completed Computer Science and Japanese Language courses.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Utsunomiya Joshi Kōkō, Utsunomiya, Japan - 2007-2008&lt;/strong&gt; - Rotary International Exchange Program.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Century College, White Bear Lake, MN - 2006-2007&lt;/strong&gt; - Completed Computer Science courses as a PSEO student.&lt;/p&gt;
-
-&lt;h2 id=&#34;skills:c59a67a3c7bc5faa453847420267045e&#34;&gt;SKILLS&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Front End:&lt;/strong&gt;
-    HTML, CSS, CSS Preprocessors, Javascript, jQuery, Backbone/Underscore, JS       Task Runners, JS Testing, JS Code Quality Tools, SVG and SVG                animation, responsive design&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Back End:&lt;/strong&gt;
-    Python, Django, Flask, RESTful API creation, Relational databases, OAuth,       Apache, FreeBSD&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;General:&lt;/strong&gt;
-    Mac OS X, Subversion, Git, Adobe Illustrator, OmniGraffle for wireframing&lt;/p&gt;
 </description>
     </item>
     

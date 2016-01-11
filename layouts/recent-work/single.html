@@ -1,0 +1,26 @@
+<html>
+{{ partial "header.html" . }}
+<body class='recent-work-page'>
+<div class="container clearfix">
+    <div class="row">
+        <div>
+            <h1>{{ .Title }}</h1>
+            <div class='divider'></div>
+            <nav>
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                </ul>
+            </nav>
+            <div class="preview-image">
+                <img src="{{ .Params.imglink }}">
+            </div>
+            <div class="content-container">
+                <div class="site-link"><a href="{{ .Params.extlink }}">Site Link</a></div>
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ partial "footer.html" . }}
+</body>
+</html>
