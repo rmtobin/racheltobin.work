@@ -161,6 +161,13 @@ li:last-child::before {
         width:100%;
     }
 }
+footer > div {
+    display:inline-block;
+}
 .copyright {
+    margin-bottom:20px;
+    margin-right:20px;
+}
+.source {
     margin-bottom:20px;
 }
